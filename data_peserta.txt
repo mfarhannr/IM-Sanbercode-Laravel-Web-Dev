@@ -1,5 +1,4 @@
 Data Peserta Sanbercode Bootcamp Laravel Web Dev
-1. Nama: 
-2. Email: 
-3. Akun Gitlab: 
-4. Akun Telegram:
+1. Nama: Muhammad Farhan Nurrahmat Latif
+2. Email: muhammad755262@smk.belajar.id
+3. Akun Github: mfarhannr
